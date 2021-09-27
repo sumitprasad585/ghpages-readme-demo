@@ -7,7 +7,7 @@
 
 ## Code Snippets in README.md
 #### `C++`
-```` c++
+``` c++
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -33,7 +33,7 @@ console.log("ghpages readme demo");
 console.log(body);
 ```
 
-**Hyperlinks** and **Tables** in README.md
+### **Hyperlinks** and **Tables** in README.md
 |🐱‍👤🐱‍👤🐱‍👤| [Visit Github pages of this repository](https://sumitprasad585.github.io/ghpages-readme-demo) |
 | ---------------------------- | --------------------------------------------------------------------------------------------- | 
 | 🐇🐇🐇 | [**Github**](https://www.github.com) |

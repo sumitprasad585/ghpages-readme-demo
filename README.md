@@ -32,10 +32,8 @@ public class Test{
 console.log("ghpages readme demo");
 console.log(body);
 ```
-
-### **Hyperlinks** and **Tables** in README.md
-|🐱‍👤🐱‍👤🐱‍👤| [Visit Github pages of this repository](https://sumitprasad585.github.io/ghpages-readme-demo) |
-| ---------------------------- | --------------------------------------------------------------------------------------------- | 
-| 🐇🐇🐇 | [**Github**](https://www.github.com) |
-| ------ | -----------------------------------  |
-| 🐬🐬🐬 | ![Github logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png) | 
+## **Hyperlinks** and **Tables** in README.md
+| 🐇🐇🐇 | [**Visit Github Pages of this repository**](https://sumitprasad585.github.io/ghpages-readme-demo) |
+| --- | --- |
+| 🐬🐬🐬 | [**Github**](https://www.github.com) |
+| 🐱‍👤🐱‍👤🐱‍👤 | ![Github logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png) |
